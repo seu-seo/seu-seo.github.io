@@ -3,27 +3,41 @@
 
 @import "minima";
 
-/* RSS 문구 숨기기 */
 .rss-subscribe {
   display: none;
 }
 
-/* 하단 footer 전체 숨기기 */
 .site-footer {
   display: none;
 }
 
-/* 헤더 제목 + 사진 */
-.site-title-with-photo {
+.site-header .wrapper {
   display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-title-with-photo {
+  display: flex !important;
   align-items: center;
   gap: 12px;
   text-decoration: none;
 }
 
 .site-profile-photo {
-  width: 42px;
-  height: 42px;
-  border-radius: 50%;
+  width: 48px !important;
+  height: 48px !important;
+  border-radius: 50% !important;
   object-fit: cover;
+  display: block;
+}
+
+.site-nav .trigger {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.page-heading {
+  display: none;
 }
