@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "내가 알던 Attention은 뉴진스 Attention 뿐이었다.."
+title: "뉴진스의 Attention은 좋아합니다만.."
 date: 2026-03-24
 ---
 
