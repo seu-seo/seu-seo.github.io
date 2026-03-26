@@ -1,0 +1,29 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title site-title-with-photo" rel="author" href="{{ "/" | relative_url }}">
+      <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Sue Seo" class="site-profile-photo">
+      <span>{{ site.title | escape }}</span>
+    </a>
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px" aria-hidden="true">
+            <path d="M18,1.5a1.5,1.5,0,0,1-1.5,1.5H1.5a1.5,1.5,0,0,1,0-3h15A1.5,1.5,0,0,1,18,1.5Z"></path>
+            <path d="M18,7.5A1.5,1.5,0,0,1,16.5,9H1.5a1.5,1.5,0,0,1,0-3h15A1.5,1.5,0,0,1,18,7.5Z"></path>
+            <path d="M18,13.5A1.5,1.5,0,0,1,16.5,15H1.5a1.5,1.5,0,0,1,0-3h15A1.5,1.5,0,0,1,18,13.5Z"></path>
+          </svg>
+        </span>
+      </label>
+
+      <div class="trigger">
+        {%- for page in site.pages -%}
+          {%- if page.title -%}
+            <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </nav>
+  </div>
+</header>
