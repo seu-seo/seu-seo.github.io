@@ -17,6 +17,7 @@ Her current academic and professional journey reflects a strong interest in digi
   - Quality Analyst (3/2024 - present)
   - APAC SPS Project Management (5/2022 - 2/2024)
   - Content Quality Specialist (11/2020 - 5/2022)
+    
 
 - M&A Project Coordinator, LG Household & Health Care, Ltd., New York, NY (5/2019 - 7/2019)
 
@@ -26,9 +27,8 @@ Her current academic and professional journey reflects a strong interest in digi
 
 ## Education
 
-- KAIST
-  - M.S. in IT Management (part-time, current)
-  - B.B.A. in Baruch College, with a Minor in Mathematics 
+- M.S. in IT Management, KAIST (Part-time, Present)
+- B.B.A. Finance in Baruch College, with a Minor in Mathematics 
 
 ## Leadership
 
