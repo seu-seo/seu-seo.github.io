@@ -12,3 +12,18 @@
 .site-footer {
   display: none;
 }
+
+/* 헤더 제목 + 사진 */
+.site-title-with-photo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.site-profile-photo {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+}
