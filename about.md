@@ -7,7 +7,7 @@ permalink: /about/
 
 # About
 
-Sue Seo is currently pursuing a part-time master’s degree in IT Management at KAIST while working at TikTok in Trust&Safety. Her work focuses on content policy operations, cross-functional project management, and process improvement across regional and global teams. She is particularly interested in how technology, data, and scalable systems can improve operational efficiency and support better decision-making in complex organizations.
+Seungyeon is currently pursuing a part-time master’s degree in IT Management at KAIST while working at TikTok in Trust&Safety. Her work focuses on content policy operations, cross-functional project management, and process improvement across regional and global teams. She is particularly interested in how technology, data, and scalable systems can improve operational efficiency and support better decision-making in complex organizations.
 
 Before moving into project management, she worked in content quality at TikTok, building hands-on experience in platform operations and policy-related workflows. Earlier in her career, she gained exposure to M&A coordination, strategic partnerships, and corporate environments across both Korea and the United States. These experiences shaped her interest in cross-functional collaboration, structured problem-solving, and technology-enabled business transformation.
 
