@@ -38,3 +38,4 @@ Her current academic and professional journey reflects a strong interest in digi
 ## Leadership
 
 - President, Sigma Alpha Delta, Baruch College
+  - Served as president of Baruch College’s oldest honors society
