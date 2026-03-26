@@ -20,7 +20,7 @@ Her current academic and professional journey reflects a strong interest in digi
 
 - M&A Project Coordinator, LG Household & Health Care, Ltd., New York, NY (5/2019 - 7/2019)
 
-- Strategic Relationships Intern, WallachBeth Capital,Exchange Place, NJ (9/2018 - 5/2019)
+- Strategic Relationships Intern, WallachBeth Capital, Exchange Place, NJ (9/2018 - 5/2019)
 
 - Summer Intern, LG Electronics, Englewood Cliff, NJ (6/2018 - 8/2018)
 
