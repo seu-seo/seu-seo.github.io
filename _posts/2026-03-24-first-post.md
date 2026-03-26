@@ -8,7 +8,9 @@ date: 2026-03-26
 
 그러나 동시에, ‘이해했다’는 감각이 과연 내가 스스로 형성한 이해인지, 아니면 AI가 정리해준 내용을 따라가며 이해했다고 느끼는 것인지를 분별하는 일이 중요하다는 것도 알게 되었다. 흔히 AI를 amplifier라고 부르는데, 결국 질문하는 사람의 배경지식이 0이라면 결과 역시 0에 수렴할 수밖에 없다는 점을 체감한 한 주였다.
 
-[transformer_bcg_revised.pptx](https://github.com/user-attachments/files/26273245/transformer_bcg_revised.pptx)
+
+[transformer.pdf](https://github.com/user-attachments/files/26274657/transformer.pdf)
+
 
 <img width="600" height="446" alt="transformer 1" src="https://github.com/user-attachments/assets/14f26764-0faa-4eed-816d-2b297d908ff5" />
 <img width="579" height="406" alt="transformer2" src="https://github.com/user-attachments/assets/177885f7-5a83-4aae-bc70-32e06c9b4831" />
