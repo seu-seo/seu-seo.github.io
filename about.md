@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 안녕하세요. **Sue Seo**입니다.  
 틱톡 코리아에서 콘텐츠 정책 업무를 하고 있습니다.
 
