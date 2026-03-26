@@ -27,9 +27,13 @@
 .site-profile-photo {
   width: 64px !important;
   height: 64px !important;
+  min-width: 64px !important;
+  max-width: 64px !important;
+  min-height: 64px !important;
+  max-height: 64px !important;
   border-radius: 50% !important;
-  object-fit: cover;
-  display: block;
+  object-fit: cover !important;
+  display: block !important;
 }
 
 .site-nav .trigger {
