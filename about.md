@@ -27,8 +27,8 @@ Her current academic and professional journey reflects a strong interest in digi
 
 ## Education
 
-- M.S. in IT Management, KAIST (Part-time, Present)
-- B.B.A. Finance in Baruch College, with a Minor in Mathematics 
+- KAIST — Master's in IT Management (in progress)
+- Baruch College — B.B.A. in Finance, with a minor in Mathematics
 
 ## Leadership
 
